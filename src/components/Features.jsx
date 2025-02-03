@@ -89,8 +89,7 @@ const Features = () => {
                 <BentoCard
                 src="videos/FeatureKH-2.mp4"
                 title={<>zig<b>m</b>a</>}
-                description="An anime and gaming-inspired NFT 
-                collection - the IP primed for expansion."
+                description="Xehanort is a vilain, a big villain"
                 />
 
 
