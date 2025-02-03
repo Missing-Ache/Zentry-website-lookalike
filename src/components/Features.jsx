@@ -99,7 +99,7 @@ const Features = () => {
                 <BentoCard
                  src="videos/FeatureKH-3.mp4"
                  title={<>A<b>q</b>ua K<b>a</b>iri and X<b>i</b>on </>}
-                 description="Aqua kairi and xion are important personnage in the kingdom hearts series"               
+                 description="Aqua, kairi and xion are important personnages in the kingdom hearts series"               
                 />
             </BentoTilt>
             <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0 ">
