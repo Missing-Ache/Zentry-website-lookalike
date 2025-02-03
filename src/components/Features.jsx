@@ -98,8 +98,8 @@ const Features = () => {
             md:col-span-1 md:ms-0">
                 <BentoCard
                  src="videos/FeatureKH-3.mp4"
-                 title={<>n<b>e</b>xus</>}
-                 description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."               
+                 title={<>A<b>q</b>ua K<b>a</b>iri and X<b>i</b>on </>}
+                 description="Aqua kairi and xion are important personnage in the kingdom hearts series"               
                 />
             </BentoTilt>
             <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0 ">
