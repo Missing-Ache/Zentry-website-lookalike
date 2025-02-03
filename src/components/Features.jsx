@@ -88,7 +88,7 @@ const Features = () => {
             <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
                 <BentoCard
                 src="videos/FeatureKH-2.mp4"
-                title={<>zig<b>m</b>a</>}
+                title={<>Xeh<b>a</b>n<b>o</b>rt</>}
                 description="Xehanort is a vilain, a big villain"
                 />
 
