@@ -83,7 +83,7 @@ const Hero = () => {
     })
     })
 
-    const getVideoSrc = (index) => `videos/Kh-${index}.mp4`;
+    const getVideoSrc = (index) => `videos/hero-${index}.mp4`;
 
 
 
@@ -153,7 +153,7 @@ const Hero = () => {
           <h1 className="special-font hero-heading text-blue-100">redefi<b>n</b>e</h1>
           <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
             Enter the metagame Layer <br/> Unleash the play Economy</p>
-           <a href="https://www.youtube.com/watch?v=DB-SgmfG_eM" target="_blank">
+           <a href="https://www.youtube.com/watch?v=x1_-btXPWpc" target="_blank">
             <Button 
             id="watch-trailer" 
             title="Watch Trailer" 

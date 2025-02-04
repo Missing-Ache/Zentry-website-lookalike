@@ -68,7 +68,7 @@ const navbar = () => {
                 <img src='/img/logo.png' alt='logo'
                 className='w-10' />
 
-        <a href='https://fr.store.square-enix-games.com/franchise/kingdom-hearts'
+        <a href='https://vault.zentry.com/'
         target='_blank'>    
         <Button id="product-button"
                 title="Products"
@@ -95,7 +95,7 @@ const navbar = () => {
                     <audio 
                     ref={audioElementRef} 
                     className='hidden' 
-                    src='/audio/Sp1.mp3' 
+                    src='/audio/loop.mp3' 
                     loop 
                     />
                         {[1, 2, 3].map((bar) =>(
